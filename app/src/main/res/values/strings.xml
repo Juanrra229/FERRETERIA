@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FerreteriaBD</string>
+    <string name="ButtonCliente">CLIENTE</string>
+    <string name="ButtonPedido">PEDIDO</string>
+    <string name="ButtonProducto">PRODUCTO</string>
+    <string name="ButtonFactura">FACTURA</string>
+    <string name="tv1">Seleccione una opcion</string>
+    <string name="ButtonMenu">MENU</string>
+    <string name="tv2">Volver al Menu</string>
+</resources>
